@@ -67,6 +67,24 @@ public class array
         }
 
 
+        ////for loop ini sama dengan "for (int k = 0; k < nilai_uas_baru.length; k++)"
+        System.out.println("+++++++++++++++++batas+++++++++");
+        for (String k : nilai_uas_baru)
+        {
+            System.out.println(k);
+        }
+
+        
+
+
+
+
+
+
+
+
+
+
 
 
 
