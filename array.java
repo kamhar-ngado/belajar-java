@@ -2,7 +2,7 @@ public class array
 {
     public static void main(String[] args)
     {
-        String[] mata_kuliah = {"bahasa mandarin", "kalkulus ", " geometri", "statistika"};
+        String[] mata_kuliah = {"bahasa mandarin", "kalkulus ", "geometri", "statistika", "teori pengkodean"};
         mata_kuliah[0] = "[1] aljabar";
         mata_kuliah[1] = "[2] kalkulus";
         mata_kuliah[2] = "[3] geometri";
@@ -56,7 +56,7 @@ public class array
        
         for (int j = 0; j < nilai_uas.length; j++)
         {
-            System.out.println(nilai_uas[j]);
+            System.out.println("nilai uas [" + j + "] " + nilai_uas[j]);
         }
 
         System.out.println("+++++++++++++++++batas+++++++++");
