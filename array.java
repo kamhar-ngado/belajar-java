@@ -56,7 +56,8 @@ public class array
        
         for (int j = 0; j < nilai_uas.length; j++)
         {
-            System.out.println("nilai uas [" + j + "] " + nilai_uas[j]);
+                System.out.println("nilai uas [" + j + "] " + nilai_uas[j]);
+            
         }
 
         System.out.println("+++++++++++++++++batas+++++++++");
@@ -73,22 +74,6 @@ public class array
         {
             System.out.println(k);
         }
-
-        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
     }
